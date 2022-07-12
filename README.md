@@ -26,4 +26,4 @@ First, Merge the student and school data to obtain a complete resourse data for 
 #conclusion:
 * schools with higher budgets did not yield better test results. By contrast, schools with higher spending 645-675 per student actually underperformed compared to schools with smaller budgets (585 per student).
 * Smaller and medium sized schools dramatically out-performed large sized schools on passing math performances (93% passing vs 69%).
-* 
+* Charter schools out-performed the public district schools across all metrics. More data will be needed to find out whether it's resulted by school practices or school size. 
