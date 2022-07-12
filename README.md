@@ -12,7 +12,7 @@ Under the folder PyCitySchools are the script file PyCitySchool_homework.ipynb a
 
 
 #coding: 
-First, Merge the student and school data to obtain a complete resourse data for analysis, the folowing summaries are calculated and showed in DataFrame as school performace indicator and comparison.
+First, merge the student and school data to obtain a complete resource data for analysis, the folowing summaries are calculated and showed in DataFrame as school performace indicators and for comparison.
 * District Summary
 * School Summary
 * Highest-Performing Schools (by % Overall Passing)
