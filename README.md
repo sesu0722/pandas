@@ -12,7 +12,7 @@ Under the folder PyCitySchools are the script file PyCitySchool_homework.ipynb a
 
 
 #coding: 
-First, Merge the student and school data to obtain a complete resourse data for analysis
+First, Merge the student and school data to obtain a complete resourse data for analysis, the folowing summaries are calculated and showed in DataFrame as school performace indicator and comparison.
 * District Summary
 * School Summary
 * Highest-Performing Schools (by % Overall Passing)
@@ -22,3 +22,8 @@ First, Merge the student and school data to obtain a complete resourse data for 
 * Scores by School Spending
 * Scores by School Size
 * Scores by School Type
+
+#conclusion:
+* schools with higher budgets did not yield better test results. By contrast, schools with higher spending 645-675 per student actually underperformed compared to schools with smaller budgets (585 per student).
+* Smaller and medium sized schools dramatically out-performed large sized schools on passing math performances (93% passing vs 69%).
+* 
